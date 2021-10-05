@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kazzytv
+- 👋 Hi, I’m @Kazzy
 - 👀 I’m interested in computer science 
 - 🌱 I’m currently learning cs50
 - 💞️ I’m looking to collaborate on coding projects 
